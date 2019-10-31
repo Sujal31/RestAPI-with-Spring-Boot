@@ -1,0 +1,112 @@
+{
+    "ResponseItems": [
+        {
+            "InsufficientFlag": false,
+            "LocationCandidates": [
+                {
+                    "Type": "LocationAddress",
+                    "UAID": "4578cf0e-d0cb-d0d5-0dd6-01eac5a3c102",
+                    "RDSID": 7681170,
+                    "CI": 0.81589,
+                    "MDUFlag": true,
+                    "ResidentialFlag": 0,
+                    "SubAddress": {
+                        "UUAID": "182fcfd5-d032-fbca-06d5-baf2c3d077d9",
+                        "CI": 0.426315784,
+                        "SubAddressType": {
+                            "ChangeFlagSpecified": false,
+                            "Value": "UNIT"
+                        },
+                        "SubAddressName": null,
+                        "SubAddressNumber": {
+                            "ChangeFlagSpecified": false,
+                            "Value": "707"
+                        },
+                        "IsInferred": false,
+                        "IsInferredSpecified": true
+                    },
+                    "StreetNumber": {
+                        "ChangeFlagSpecified": false,
+                        "Value": 15
+                    },
+                    "StreetNumberSuffix": {
+                        "ChangeFlagSpecified": false,
+                        "Value": null
+                    },
+                    "StreetPreDirection": {
+                        "ChangeFlagSpecified": false,
+                        "Value": null
+                    },
+                    "StreetPreType": {
+                        "ChangeFlagSpecified": false,
+                        "Value": null
+                    },
+                    "StreetName": {
+                        "ChangeFlagSpecified": false,
+                        "Value": "ROSEMOUNT"
+                    },
+                    "StreetType": {
+                        "ChangeFlagSpecified": false,
+                        "Value": "DR"
+                    },
+                    "StreetDirection": {
+                        "ChangeFlagSpecified": false,
+                        "Value": null
+                    },
+                    "PostalMunicipality": {
+                        "ChangeFlagSpecified": false,
+                        "Value": "SCARBOROUGH"
+                    },
+                    "PostalCode": {
+                        "ChangeFlagSpecified": false,
+                        "IsDerived": false,
+                        "Value": "M1K2W6"
+                    },
+                    "DA": "35203471",
+                    "UsedMunicipalityAlias": "SCARBOROUGH",
+                    "IsAsserted": false,
+                    "IsAssertedSpecified": false,
+                    "Score": 1.0,
+                    "Coordinates": [
+                        {
+                            "Lat": 43.7322697,
+                            "Lon": -79.2741031,
+                            "CoordinateType": 1,
+                            "AddressPointType": 0,
+                            "AddressPointTypeSpecified": true,
+                            "LegacyPDC": 107,
+                            "PMC": 105,
+                            "PDC": 10
+                        },
+                        {
+                            "Lat": 43.7320954,
+                            "Lon": -79.2749707,
+                            "CoordinateType": 1,
+                            "AddressPointType": 1,
+                            "AddressPointTypeSpecified": true,
+                            "LegacyPDC": 205,
+                            "PMC": 505,
+                            "PDC": 50
+                        }
+                    ],
+                    "AddressLine": "15 ROSEMOUNT DR UNIT 707 TORONTO ON M1K2W6",
+                    "Municipality": {
+                        "ChangeFlag": 4,
+                        "ChangeFlagSpecified": true,
+                        "Value": "TORONTO"
+                    },
+                    "StateProvince": {
+                        "ChangeFlagSpecified": false,
+                        "Value": "ON"
+                    },
+                    "Country": {
+                        "ChangeFlag": 2,
+                        "ChangeFlagSpecified": true,
+                        "Value": "CANADA"
+                    }
+                }
+            ],
+            "SequenceId": null
+        }
+    ]
+}
